@@ -1,0 +1,2 @@
+const MY_NEWS_API_KEY='58822157406a46ec8339a9bfedb59e83';
+export {MY_NEWS_API_KEY};
